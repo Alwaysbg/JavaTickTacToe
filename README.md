@@ -8,7 +8,7 @@ javac Exercise08_09.java
 Run the compiled program:
 java Exercise08_09
 
-#Follow the on-screen instructions to enter the row and column for each player's move.
+#In the game the data is stored based on the 2D arrays index and the players can choose the position they want to take by setting the row and column
 
 #How to Play
 The game starts by displaying an empty Tic-Tac-Toe board.
